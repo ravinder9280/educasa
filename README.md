@@ -31,7 +31,9 @@ Install dependencies
 ```bash
   npm install
 ```
+Setup MySQL Database URL in .env
 
+![Screenshot 2025-03-09 141748](https://github.com/user-attachments/assets/5c89b5b0-801c-46e4-a43c-da1141ef1492)
 
 
 Start the server
