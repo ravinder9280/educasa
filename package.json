@@ -1,0 +1,24 @@
+{
+  "name": "educasa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "prisma generate && nodemon src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "prisma": "^6.4.1"
+  }
+}
