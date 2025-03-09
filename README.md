@@ -36,7 +36,7 @@ Setup MySQL Database URL in .env
 Start the server
 
 ```bash
-  npm run dev
+  npm run start
 ```
 
 
